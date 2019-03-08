@@ -1,0 +1,81 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "category_name": "Adventure",
+      "category_picture": "https://www.flipkey.com/blog/wp-content/uploads/iStock_000016070858Small.jpg",
+      "activities": [
+        {
+          "id": 5,
+          "name": "Bad Axe Throwing",
+          "picture": "https://washington-org.s3.amazonaws.com/s3fs-public/throwing_axes_at_bad_axe_throwing_credit_bad_axe.jpg",
+          "description": "Talk about a unique date. Bad Axe Throwing allows you to book in advance or simply walk-in to do some good old-fashioned axe throwing. Don’t worry; safety is their number one priority, quickly followed by fun. You will have a coach to guide you through your axe-throwing experience, during which you’ll launch at a target to see who has the finest skills."
+        },
+        {
+          "id": 7,
+          "name": "Rock Creek Park ",
+          "picture": "https://washington-org.s3.amazonaws.com/s3fs-public/couple-looking-out-to-water-at-rock-creek-park_ddc-photo.jpg",
+          "description": "Even during the winter, Rock Creek Park serves as a scenic recluse from the city. Put on your winter coat and stroll through the 2,100-acre park, which includes historical attractions like Peirce Mill, as well as a nature center (step in for warmth, if you need to), picnic areas and playing fields. Inside the nature center, there’s also a planetarium, so you and your sweetie can stargaze."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category_name": "Family Friendly",
+      "category_picture": "https://www.ift.org.uk/wp-content/uploads/therapy-menu5.jpg",
+      "activities": [
+        {
+          "id": 3,
+          "name": "Shopping",
+          "picture": "https://washington-org.s3.amazonaws.com/s3fs-public/kidcass_open-flame-kitchen-at-maydan_yesmydccool.jpg",
+          "description": "DC is a hub for international cuisine, meaning your romantic dinner can turn into a globe-trotting excursion. Rose Previte’s Maydan, named one of 2018’s best new restaurants in America by Bon Appétit, fires off flavors from the Middle East and North Africa. A Georgian feast awaits at Supra in Shaw, where the khachapuri (housemade bread filled with cheese) cannot be missed. Ambar in Capitol Hill brings Balkan cuisine to the heart of DC, offering mezze, spreads, flatbreads, meat and poultry and much more."
+        },
+        {
+          "id": 10,
+          "name": "National Air and Space Museum ",
+          "picture": "https://washington-org.s3.amazonaws.com/s3fs-public/adventuresarewaiting_view-of-boeing-milestones-of-flight-hall-at-national-air-space-museum_yesmydccool.jpg",
+          "description": "One of the most visited museums in the country resides on the scenic National Mall. Bring your boo on a journey through space and aviation history at the National Air and Space Museum, which includes awe-inspiring artifacts such as the 1903 Wright Flyer and Charles Lindbergh’s Spirit of St. Louis, along with the Boeing Milestones of Flight Hall."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category_name": "Romantic",
+      "category_picture": "http://www.punjabidharti.com/wp-content/uploads/2016/06/romantic-couple.jpg",
+      "activities": [
+        {
+          "id": 9,
+          "name": "C&O Canal",
+          "picture": "https://washington-org.s3.amazonaws.com/s3fs-public/view-of-key-bridge-potomac-river-from-georgetown-aqueduct_ddc-photo.jpg",
+          "description": "Hold hands (or bike side-by-side) as you trek down the C&O Canal, which runs alongside the Potomac River from gorgeous Georgetown all the way to Cumberland, Md. You’ll be provided with scenic views of one of DC’s most historic neighborhoods. Visit the trail on a sunny afternoon, and we’re sure you’ll come away with some Instagram-worthy shots of you and your date. After your adventure, catch the sunset at the Graffiti Cliffs near the Key Bridge for a breathtaking visual."
+        },
+        {
+          "id": 8,
+          "name": "The Wharf",
+          "picture": "https://washington-org.s3.amazonaws.com/reenaxsingh_concert-at-the-anthem-on-the-wharf_yesmydccool.jpg",
+          "description": "The Wharf features three pristine music venues that add to DC’s already robust roster. The Anthem is an acoustically optimized, 6,000-seat concert hall that brings pure bliss to music lovers. Pearl Street Warehouse is more intimate, letting you and your date enjoy the artist up close while savoring all-American dinner fare, craft brews and cocktails. There's also Union Stage, a dynamic spot that offers a packed calendar with a wide range of independent acts paired perfectly with beers and pizza from their Tap Room."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category_name": "Tours",
+      "category_picture": "https://d12dkjq56sjcos.cloudfront.net/pub/media/catalog/product/cache/cc97dcefdad38e30e4c65a42f2529e4f/r/o/rome-night-tour-big-bus-tours.jpg",
+      "activities": [
+        {
+          "id": 3,
+          "name": "Shopping",
+          "picture": "https://washington-org.s3.amazonaws.com/s3fs-public/kidcass_open-flame-kitchen-at-maydan_yesmydccool.jpg",
+          "description": "DC is a hub for international cuisine, meaning your romantic dinner can turn into a globe-trotting excursion. Rose Previte’s Maydan, named one of 2018’s best new restaurants in America by Bon Appétit, fires off flavors from the Middle East and North Africa. A Georgian feast awaits at Supra in Shaw, where the khachapuri (housemade bread filled with cheese) cannot be missed. Ambar in Capitol Hill brings Balkan cuisine to the heart of DC, offering mezze, spreads, flatbreads, meat and poultry and much more."
+        },
+        {
+          "id": 10,
+          "name": "National Air and Space Museum ",
+          "picture": "https://washington-org.s3.amazonaws.com/s3fs-public/adventuresarewaiting_view-of-boeing-milestones-of-flight-hall-at-national-air-space-museum_yesmydccool.jpg",
+          "description": "One of the most visited museums in the country resides on the scenic National Mall. Bring your boo on a journey through space and aviation history at the National Air and Space Museum, which includes awe-inspiring artifacts such as the 1903 Wright Flyer and Charles Lindbergh’s Spirit of St. Louis, along with the Boeing Milestones of Flight Hall."
+        }
+      ]
+    }
+
+  ]
+}
